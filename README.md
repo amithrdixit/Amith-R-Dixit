@@ -1,2 +1,2 @@
-##### Sample
+# Sample
 This is my first  sample Repository...
