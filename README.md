@@ -1,2 +1,2 @@
-# Amith-R-Dixit
+# Sample
 This is my first  sample Repository...
